@@ -1,0 +1,141 @@
+body{
+    background-color: rgb(26, 26, 56);
+}
+
+
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.vie{
+    margin-right: 200px;
+}
+
+nav{
+   display: flex;
+    margin-left: 70px;
+   justify-content: space-between;
+   margin-right: 400px;
+   margin-bottom: 100px;
+}
+
+
+.moi{
+    color: coral;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+
+.toi{
+    color: aliceblue;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-bottom: 40px;
+}
+
+
+h1{
+    color: aliceblue;
+    margin-left: 50px;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+h2{
+    background-color: darkorange;
+    color: white;
+    display: inline;
+    padding: 10px;
+    margin: 40px;
+    border-radius: 20px;
+
+}
+
+.di{
+    margin-right: 150px;
+}
+
+
+div{
+    margin-left: 70px;
+    padding-bottom: 50px;
+}
+
+section{
+    display: flex;
+   
+}
+.nous{
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    grid-template-rows: 200px 200px 200px;
+    gap: 10px;
+    column-gap: 20px;
+   
+}
+.eva1{
+   height: 170px;
+   width: 150px;
+   border-radius: 70px;
+}
+.eva2{
+    height: 170px;
+    width: 150px;
+    border-radius: 30px 30px 60px 60px;
+}
+.eva3{
+    height: 150px;
+    width: 150px;
+    border-radius: 70px 0px 0px 70px;
+}
+.eva4{
+    height: 150px;
+    width: 150px;
+    border-radius: 70px;
+}
+.eva5{
+    height: 150px;
+    width: 150px;
+    border-radius: 70px;
+   
+}
+
+.eva6{
+    height: 150px;
+    width: 50px;
+    border-radius: 40px;
+   margin-top: 300px;
+   margin-top: 50px;
+   margin-left: 40px;
+    
+}
+.eva7{
+    height: 150px;
+    width: 150px;
+    border-radius: 70px;
+   
+}
+.eva8{
+    height: 150px;
+    width: 80px;
+    border-radius: 200px 30px 30px 200px;
+    margin-left: 40px;
+}
+.eva9{
+    height: 350px;
+    width: 150px;
+    border-radius: 70px;
+    margin-left: 50px;
+    position: absolute;
+    top: 300px;
+    right: 70px;
+}
+.maman{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    margin-right: 300px;
+}

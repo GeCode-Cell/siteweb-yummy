@@ -1,0 +1,121 @@
+header{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+
+nav{
+    margin-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.contenaire{
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+
+.you{
+margin-right: 100px;
+}
+
+span{
+    color: rgb(235, 136, 16) ;
+}
+
+.you1{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline;
+}
+.you1:hover{
+    background-color: darkorange;
+}
+
+h4{
+   margin-bottom: 20px;
+}
+
+.contenaire{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    gap: 50px;
+   
+}
+
+.you2{
+     background-image: url(images/Facade_Yummy_Nouille_1_1_20.jpg);
+     width: 300px;
+    height: 200px;
+}
+.you2 p{
+    margin-top: 200px;
+}
+
+.you3{
+    background-image: url(images/Facade_Yummy_Nouille_2_1_18.jpg);
+    width: 300px;
+    height: 200px;
+}
+.you3 p{
+    margin-top: 200px;
+}
+
+.you4{
+    background-image: url(images/Facade_Yummy_Nouille_3_1_34.jpg);
+    width: 300px;
+    height: 200px;
+}
+
+.you4 p{
+    margin-top: 200px;
+}
+
+.you5{
+    background-color: rgb(230, 14, 14);
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+    padding: 50px;
+    color: white;
+}
+
+.you6{
+    background-color: black;
+    padding: 20px;
+}
+
+.contenaire3{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+     margin-left: 250px;
+     margin-bottom: 50px;
+}
+
+.you8{
+    margin-bottom: 50px;
+}
+
+footer{
+    background-color: black;
+    padding: 50px;
+}
+
+.you7{
+    height: 50px;
+    margin-bottom: -10px;
+}
+
+.contenaire4{
+    display: flex;
+    justify-content: end;
+
+}
+

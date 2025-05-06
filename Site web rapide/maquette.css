@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+    color: beige;
+}
+
+.contenair{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+.eva{
+    height: 300px;
+    width: 250px;
+     border-radius: 10px;
+}
+
+.toi{
+    width: 300px;
+    border-radius: 10px 10px 0px 0px;
+    background-image: url(images/Eva\ 3.jpg);
+    background-size: cover;
+    height: 300px;
+}
+
+.toi p{
+    margin-top: 100%;
+    background-color:crimson;
+    height: 40%;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+    
+}
+
+.eva2{
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.moi{
+    background-image: url(images/unsplash_xmSWVeGEnJw.png);
+    width: 300px;
+    background-size: cover;
+    height: 400px;
+    border-radius: 10px 10px 0px 0px;
+}
+.moi p{
+    margin-top: 100%;
+    background-color:crimson;
+    height: 20%;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+    padding-bottom: 50px;
+    
+}
+.eva3{
+    height: 300px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+.nous{
+    background-image: url(images/Eva\ 3.jpg);
+    width: 300px;
+    background-size: cover;
+    height: 400px;
+    border-radius: 10px 10px 0px 0px;
+}
+.nous P{
+    margin-top: 100%;
+    background-color:crimson;
+    height: 20%;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+    padding-bottom: 50px;
+    
+}
+.eva4{
+    height: 300px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+.vous{
+    background-image: url(images/unsplash_nSBl2cfwnmE.png);
+    width: 300px;
+    background-size: cover;
+    height: 300px;
+    border-radius: 10px 10px 0px 0px;
+}
+.vous p{
+    margin-top: 100%;
+    background-color:crimson;
+    height: 25%;
+    text-align: center;
+    border-radius: 0px 0px 10px 10px;
+    padding-bottom: 50px;
+    
+}
